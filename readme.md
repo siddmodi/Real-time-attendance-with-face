@@ -1,6 +1,6 @@
-create an enviornment using ---->> pip -m venv env_name
-Activate an env --->> ..cd/env_name/Scripts/activate.bat
-Install dependencies --->> pip install -r requirements.txt
+1) create an enviornment using ---->> pip -m venv env_name
+2) Activate an env --->> ..cd/env_name/Scripts/activate.bat
+3) Install dependencies --->> pip install -r requirements.txt
  
 Run --->> img_capture.py 
 steps done....
