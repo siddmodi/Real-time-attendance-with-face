@@ -2,7 +2,7 @@ import cv2
 import os
 
 name = 'siddharth'
-path = 'D:\\Face-Recognition-master\\ImagesAttendance'
+path = 'ImagesAttendance'
 
 key = cv2. waitKey(1)
 webcam = cv2.VideoCapture(0,cv2.CAP_DSHOW)

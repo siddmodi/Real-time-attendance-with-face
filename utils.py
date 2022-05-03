@@ -13,7 +13,7 @@ def findEncodings(images):
     return encodeList
 
 def markAttendance(name):
-    with open('D:\\Face-Recognition-master\\Attendance.csv','r+') as f:
+    with open('Attendance.csv','r+') as f:
         myDataList = f.readlines()
         nameList = []
         for line in myDataList:

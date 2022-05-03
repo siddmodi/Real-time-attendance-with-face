@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 from utils import findEncodings,markAttendance
 
-path = 'D:\Face-Recognition-master\ImagesAttendance'
+path = 'ImagesAttendance'
 images = []
 classNames = []
 myList = os.listdir(path)
